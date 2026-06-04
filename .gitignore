@@ -1,0 +1,3 @@
+*.csv
+outputs/
+.ipynb_checkpoints/
